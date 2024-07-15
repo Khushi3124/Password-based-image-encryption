@@ -18,8 +18,9 @@ The user-generated key is incorporated into the encryption process.A chaotic map
 The result of the encryption function is the encrypted image. This image appears garbled and unintelligible without the decryption process and the corresponding key.
 
 ## INPUT IMAGE
-![lena](https://github.com/user-attachments/assets/92cef19f-18d1-4dc7-a18f-6ef4f190698b)
+![lena](https://github.com/user-attachments/assets/95c2026c-8893-4bab-9164-83d035d76e08)
 
+## OUTPUT IMAGE
 ![image](https://github.com/user-attachments/assets/85f843fb-81f4-4de3-8642-4d6e6da6cc10)
 
 
